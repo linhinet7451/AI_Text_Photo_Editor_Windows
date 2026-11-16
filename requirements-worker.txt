@@ -1,0 +1,4 @@
+# 雲端 worker 專用依賴（還需先安裝主 requirements.txt，worker 與主程式共用同一套核心）
+fastapi==0.163.1
+uvicorn==0.54.0
+python-multipart==0.0.34
